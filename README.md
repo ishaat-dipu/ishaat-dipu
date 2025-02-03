@@ -43,7 +43,6 @@
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/ishaatrahmandipu/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.behance.net/ishaatdipu" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a>
 <a target="_blank" href="https://www.youtube.com/@cognifyt" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaat-dipu&show_icons=true&locale=en" alt="ishaat-dipu" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/ishaatcat72?new=1">
