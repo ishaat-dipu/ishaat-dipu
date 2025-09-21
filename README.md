@@ -30,14 +30,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li>
-  <a target="_blank" href="https://medium.com/@ishaatdipu/building-the-foundations-mastering-math-basics-on-the-path-to-ai-part-i-4fb91dcb7af7" style="text-decoration: none;">
-    Building the Foundations: Mastering Math Basics on the path to AI (part I)
-  </a>
-</li>
-
 <h2>✒🗞️ Pulblications</h2>
 <ul>
 <li>
