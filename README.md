@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Hello, I am Ishaat Rahman Dipu<br><br>💻 Currently preparing for a Python Backend Developer role<br>🚀 Specializing in FastAPI for high-performance backend development<br>🐍 Strengthening my foundation in Core Programming & Python fundamentals<br>📚 Continuously learning, building, and improving my problem-solving skills<br>🎯 Goal: Becoming a strong, industry-ready backend engineer
+✨ Hello, I am Ishaat Rahman Dipu<br><br>💻 Currently preparing for a Python  Developer role<br>🐍 Strengthening my foundation in Core Programming & Python fundamentals<br>📚 Continuously learning, building, and improving my problem-solving skills<br>🎯 Goal: Becoming a strong, industry-ready backend engineer
 
 
 ## 🌐 Socials:
